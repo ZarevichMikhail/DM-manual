@@ -1,0 +1,6 @@
+.idea
+.venv
+*.html
+*.md
+*.pdf
+/Методичка_по_ДМ_files
